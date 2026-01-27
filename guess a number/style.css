@@ -1,0 +1,27 @@
+.box {
+    padding: 30px;
+  width: 350px;
+  height: 450px;
+  background: rgb(78, 76, 76);
+  margin: 0 auto;
+  border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+   
+}
+.guessField {
+    display: block;
+    margin: 20px auto;
+    padding: 8px;
+    width: 70%;
+}
+.sumbitguess {
+    display: block;
+    margin: 10px auto;
+    padding: 8px 20px;
+    cursor: pointer;
+}
