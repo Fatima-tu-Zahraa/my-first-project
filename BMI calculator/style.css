@@ -1,0 +1,15 @@
+ .formsize {
+            padding: 30px;
+            width: 400px;
+            height: 500px;
+            background-color: blueviolet;
+            color: white;
+            border-radius: 10px;
+        }
+        .result-box {
+            background-color: white;
+            color: #333;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 15px;
+        }
