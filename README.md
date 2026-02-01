@@ -1,13 +1,9 @@
- JavaScript Mini Projects
+ ## To-Do List App
 
-Beginner-level projects built while learning JavaScript.
+A beginner-friendly To-Do List application built using HTML, CSS, Bootstrap, and JavaScript.
 
-Projects:
-- Guess the Number Game
-- BMI Calculator
-
-Technologies:
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+### Features
+- Add tasks using button or Enter key
+- Delete tasks
+- Tasks saved in browser using localStorage
+- Responsive UI using Bootstrap
