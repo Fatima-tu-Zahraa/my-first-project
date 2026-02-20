@@ -1,9 +1,11 @@
- ## To-Do List App
+## Calculator App
 
-A beginner-friendly To-Do List application built using HTML, CSS, Bootstrap, and JavaScript.
+A modern calculator built using:
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
-### Features
-- Add tasks using button or Enter key
-- Delete tasks
-- Tasks saved in browser using localStorage
-- Responsive UI using Bootstrap
+Features:
+- Basic arithmetic operations
+- Clean and modern UI
